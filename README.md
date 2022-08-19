@@ -16,3 +16,9 @@ Pleasma Speaker V1.
 Pleasma Speaker V2. Just compressed the circuit, used 1/6th and 1/8th W resistors instead of 1/4W. Circuit is entirely same.
 ![20220816_222430](https://user-images.githubusercontent.com/102617342/185617386-a9f23684-9b16-463e-9200-9c850c25ebd5.jpg)
 ![20220816_222507](https://user-images.githubusercontent.com/102617342/185617402-46ced956-da21-4932-830a-a73e9e6e8425.jpg)
+
+
+Short test Video.
+
+https://user-images.githubusercontent.com/102617342/185617865-a6b7de7f-2d36-4c58-afe6-a85e175cbcac.mp4
+
