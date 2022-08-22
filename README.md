@@ -20,5 +20,9 @@ Pleasma Speaker V2. Just compressed the circuit, used 1/6th and 1/8th W resistor
 
 Short test Video.
 
+
+https://user-images.githubusercontent.com/102617342/185965850-65772b80-393d-489a-9af2-37c5d292aced.mp4
+
+
 https://user-images.githubusercontent.com/102617342/185617865-a6b7de7f-2d36-4c58-afe6-a85e175cbcac.mp4
 
